@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/ehmry/monero/rpc"
+	"github.com/londonatil/monero/rpc"
 	"github.com/spf13/cobra"
 	"os"
 	"strconv"

@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	//"github.com/ehmry/monero/crypto"
+	//"github.com/londonatil/monero/crypto"
 )
 
 func TestWordToBytes(t *testing.T) {
